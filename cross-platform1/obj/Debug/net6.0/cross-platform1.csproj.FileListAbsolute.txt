@@ -1,0 +1,15 @@
+C:\Users\si010\source\repos\cross-platform1\bin\Debug\net6.0\cross-platform1.exe
+C:\Users\si010\source\repos\cross-platform1\bin\Debug\net6.0\cross-platform1.deps.json
+C:\Users\si010\source\repos\cross-platform1\bin\Debug\net6.0\cross-platform1.runtimeconfig.json
+C:\Users\si010\source\repos\cross-platform1\bin\Debug\net6.0\cross-platform1.dll
+C:\Users\si010\source\repos\cross-platform1\bin\Debug\net6.0\cross-platform1.pdb
+C:\Users\si010\source\repos\cross-platform1\obj\Debug\net6.0\cross-platform1.csproj.AssemblyReference.cache
+C:\Users\si010\source\repos\cross-platform1\obj\Debug\net6.0\cross-platform1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\si010\source\repos\cross-platform1\obj\Debug\net6.0\cross-platform1.AssemblyInfoInputs.cache
+C:\Users\si010\source\repos\cross-platform1\obj\Debug\net6.0\cross-platform1.AssemblyInfo.cs
+C:\Users\si010\source\repos\cross-platform1\obj\Debug\net6.0\cross-platform1.csproj.CoreCompileInputs.cache
+C:\Users\si010\source\repos\cross-platform1\obj\Debug\net6.0\cross-platform1.dll
+C:\Users\si010\source\repos\cross-platform1\obj\Debug\net6.0\refint\cross-platform1.dll
+C:\Users\si010\source\repos\cross-platform1\obj\Debug\net6.0\cross-platform1.pdb
+C:\Users\si010\source\repos\cross-platform1\obj\Debug\net6.0\cross-platform1.genruntimeconfig.cache
+C:\Users\si010\source\repos\cross-platform1\obj\Debug\net6.0\ref\cross-platform1.dll
