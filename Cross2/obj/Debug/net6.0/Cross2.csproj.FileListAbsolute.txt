@@ -1,0 +1,15 @@
+C:\Users\si010\source\repos\Cross2\bin\Debug\net6.0\Cross2.exe
+C:\Users\si010\source\repos\Cross2\bin\Debug\net6.0\Cross2.deps.json
+C:\Users\si010\source\repos\Cross2\bin\Debug\net6.0\Cross2.runtimeconfig.json
+C:\Users\si010\source\repos\Cross2\bin\Debug\net6.0\Cross2.dll
+C:\Users\si010\source\repos\Cross2\bin\Debug\net6.0\Cross2.pdb
+C:\Users\si010\source\repos\Cross2\obj\Debug\net6.0\Cross2.csproj.AssemblyReference.cache
+C:\Users\si010\source\repos\Cross2\obj\Debug\net6.0\Cross2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\si010\source\repos\Cross2\obj\Debug\net6.0\Cross2.AssemblyInfoInputs.cache
+C:\Users\si010\source\repos\Cross2\obj\Debug\net6.0\Cross2.AssemblyInfo.cs
+C:\Users\si010\source\repos\Cross2\obj\Debug\net6.0\Cross2.csproj.CoreCompileInputs.cache
+C:\Users\si010\source\repos\Cross2\obj\Debug\net6.0\Cross2.dll
+C:\Users\si010\source\repos\Cross2\obj\Debug\net6.0\refint\Cross2.dll
+C:\Users\si010\source\repos\Cross2\obj\Debug\net6.0\Cross2.pdb
+C:\Users\si010\source\repos\Cross2\obj\Debug\net6.0\Cross2.genruntimeconfig.cache
+C:\Users\si010\source\repos\Cross2\obj\Debug\net6.0\ref\Cross2.dll
