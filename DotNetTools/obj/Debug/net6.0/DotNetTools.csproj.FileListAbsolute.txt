@@ -1,0 +1,17 @@
+C:\Users\si010\source\repos\DotNetTools\bin\Debug\net6.0\DotNetTools.exe
+C:\Users\si010\source\repos\DotNetTools\bin\Debug\net6.0\DotNetTools.deps.json
+C:\Users\si010\source\repos\DotNetTools\bin\Debug\net6.0\DotNetTools.runtimeconfig.json
+C:\Users\si010\source\repos\DotNetTools\bin\Debug\net6.0\DotNetTools.dll
+C:\Users\si010\source\repos\DotNetTools\bin\Debug\net6.0\DotNetTools.pdb
+C:\Users\si010\source\repos\DotNetTools\bin\Debug\net6.0\McMaster.Extensions.CommandLineUtils.dll
+C:\Users\si010\source\repos\DotNetTools\obj\Debug\net6.0\DotNetTools.csproj.AssemblyReference.cache
+C:\Users\si010\source\repos\DotNetTools\obj\Debug\net6.0\DotNetTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\si010\source\repos\DotNetTools\obj\Debug\net6.0\DotNetTools.AssemblyInfoInputs.cache
+C:\Users\si010\source\repos\DotNetTools\obj\Debug\net6.0\DotNetTools.AssemblyInfo.cs
+C:\Users\si010\source\repos\DotNetTools\obj\Debug\net6.0\DotNetTools.csproj.CoreCompileInputs.cache
+C:\Users\si010\source\repos\DotNetTools\obj\Debug\net6.0\DotNetTools.csproj.CopyComplete
+C:\Users\si010\source\repos\DotNetTools\obj\Debug\net6.0\DotNetTools.dll
+C:\Users\si010\source\repos\DotNetTools\obj\Debug\net6.0\refint\DotNetTools.dll
+C:\Users\si010\source\repos\DotNetTools\obj\Debug\net6.0\DotNetTools.pdb
+C:\Users\si010\source\repos\DotNetTools\obj\Debug\net6.0\DotNetTools.genruntimeconfig.cache
+C:\Users\si010\source\repos\DotNetTools\obj\Debug\net6.0\ref\DotNetTools.dll

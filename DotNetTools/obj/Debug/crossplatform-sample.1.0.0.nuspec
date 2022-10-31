@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>crossplatform-sample</id>
+    <version>1.0.0</version>
+    <authors>DotNetTools</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="C:\Users\si010\source\repos\DotNetTools\obj\DotnetToolSettings.xml" target="tools\net6.0\any\DotnetToolSettings.xml" />
+    <file src="C:\Users\si010\source\repos\DotNetTools\bin\Debug\net6.0\publish\DotNetTools.dll" target="tools\net6.0\any\DotNetTools.dll" />
+    <file src="C:\Users\si010\source\repos\DotNetTools\bin\Debug\net6.0\publish\DotNetTools.deps.json" target="tools\net6.0\any\DotNetTools.deps.json" />
+    <file src="C:\Users\si010\source\repos\DotNetTools\bin\Debug\net6.0\publish\DotNetTools.runtimeconfig.json" target="tools\net6.0\any\DotNetTools.runtimeconfig.json" />
+    <file src="C:\Users\si010\source\repos\DotNetTools\bin\Debug\net6.0\publish\DotNetTools.pdb" target="tools\net6.0\any\DotNetTools.pdb" />
+    <file src="C:\Users\si010\source\repos\DotNetTools\bin\Debug\net6.0\publish\McMaster.Extensions.CommandLineUtils.dll" target="tools\net6.0\any\McMaster.Extensions.CommandLineUtils.dll" />
+  </files>
+</package>

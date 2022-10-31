@@ -1,0 +1,6 @@
+C:\Users\si010\source\repos\DotNetTools\bin\Debug\net6.0\publish\DotNetTools.exe
+C:\Users\si010\source\repos\DotNetTools\bin\Debug\net6.0\publish\DotNetTools.dll
+C:\Users\si010\source\repos\DotNetTools\bin\Debug\net6.0\publish\DotNetTools.deps.json
+C:\Users\si010\source\repos\DotNetTools\bin\Debug\net6.0\publish\DotNetTools.runtimeconfig.json
+C:\Users\si010\source\repos\DotNetTools\bin\Debug\net6.0\publish\DotNetTools.pdb
+C:\Users\si010\source\repos\DotNetTools\bin\Debug\net6.0\publish\McMaster.Extensions.CommandLineUtils.dll
