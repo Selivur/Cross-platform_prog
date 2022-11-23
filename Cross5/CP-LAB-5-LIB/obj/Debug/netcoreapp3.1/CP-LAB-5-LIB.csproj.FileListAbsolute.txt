@@ -1,0 +1,10 @@
+C:\Users\si010\Downloads\Cross5\CP-LAB-5-LIB\obj\Debug\netcoreapp3.1\CP-LAB-5-LIB.csproj.AssemblyReference.cache
+C:\Users\si010\Downloads\Cross5\CP-LAB-5-LIB\obj\Debug\netcoreapp3.1\CP-LAB-5-LIB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\si010\Downloads\Cross5\CP-LAB-5-LIB\obj\Debug\netcoreapp3.1\CP-LAB-5-LIB.AssemblyInfoInputs.cache
+C:\Users\si010\Downloads\Cross5\CP-LAB-5-LIB\obj\Debug\netcoreapp3.1\CP-LAB-5-LIB.AssemblyInfo.cs
+C:\Users\si010\Downloads\Cross5\CP-LAB-5-LIB\obj\Debug\netcoreapp3.1\CP-LAB-5-LIB.csproj.CoreCompileInputs.cache
+C:\Users\si010\Downloads\Cross5\CP-LAB-5-LIB\bin\Debug\netcoreapp3.1\CP-LAB-5-LIB.deps.json
+C:\Users\si010\Downloads\Cross5\CP-LAB-5-LIB\bin\Debug\netcoreapp3.1\CP-LAB-5-LIB.dll
+C:\Users\si010\Downloads\Cross5\CP-LAB-5-LIB\bin\Debug\netcoreapp3.1\CP-LAB-5-LIB.pdb
+C:\Users\si010\Downloads\Cross5\CP-LAB-5-LIB\obj\Debug\netcoreapp3.1\CP-LAB-5-LIB.dll
+C:\Users\si010\Downloads\Cross5\CP-LAB-5-LIB\obj\Debug\netcoreapp3.1\CP-LAB-5-LIB.pdb

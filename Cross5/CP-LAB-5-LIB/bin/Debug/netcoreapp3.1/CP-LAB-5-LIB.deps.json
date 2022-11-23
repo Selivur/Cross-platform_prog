@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CP-LAB-5-LIB/1.0.0": {
+        "runtime": {
+          "CP-LAB-5-LIB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CP-LAB-5-LIB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
