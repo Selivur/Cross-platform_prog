@@ -1,0 +1,28 @@
+﻿@model CP_LAB_5.Models.ViewModels.LabWorkViewModel
+
+<h1>Лаб. работа 1</h1>
+<p>Дано N целых чисел. Каждое из них можно один раз изменить не более чем на целую величину L как в сторону увеличения, так и в сторону уменьшения или оставить без изменения. Если после такой операции некоторые из чисел оказываются равными, то они засчитываются за одно. С данными числами произвели указанную операцию таким образом, что осталось минимально возможное количество чисел. Требуется написать программу для определения этого количества.</p>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Lab1">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Input" class="control-label"></label>
+                @Html.TextAreaFor(model => model.Input, new { @class = "form-control", @rows = 4 })
+            </div>
+            <div class="form-group">
+                <label asp-for="Output" class="control-label">Output: @(Model != null ? Model.Output : string.Empty)</label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Get Result" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }
